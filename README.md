@@ -95,15 +95,6 @@ class AbdullahButt:
 
 ---
 
-## 🏆 Top Contributions
-
-<div align="center">
-
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=abdullah-butt17&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
 
 ## ✍️ Dev Quote
 
