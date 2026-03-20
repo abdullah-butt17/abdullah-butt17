@@ -1,95 +1,126 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm <span style="color:#6aa9ff">Abdullah Butt</span> 👋</h1>
-<h3 align="center">AI & Python Developer | BSAI Student | Systems Limited</h3>
+<div align="center">
 
-<p align="center">
-  <img src="[readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AA9FF&center=true&vCenter=true&width=500&lines=AI+Enthusiast+and+Python+Developer;Building+ML+Models+%26+Backend+Systems;Passionate+about+AI+Innovation)" alt="Typing SVG" />
-</p>
+# Hi there, I'm Abdullah Butt 👋
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=BSAI+Student+%7C+AI+Enthusiast;Python+Developer+%7C+Backend+Engineer;Machine+Learning+%7C+Data+Science;Building+AI+Solutions+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 
-## 🌟 **About Me**
+<br/>
 
-- 🎓 BSAI Student deeply passionate about **Artificial Intelligence**
-- 💻 Developing intelligent systems using **Python, ML & Backend Development**
-- 🤝 Open to collaborating on **AI, ML models, APIs, and automation tools**
-- 🏢 Currently working part‑time at **Systems Limited**
-- 📍 Based in **Lahore Development Authority, Johar Town**
-- ⚡ Balancing **academics + tech industry** at the same time
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdullah%20butt)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luckybutt_17)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahbutt1794@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah-butt17)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdullah-butt17&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS)](https://github.com/abdullah-butt17)
+
+</div>
 
 ---
 
-## 🌐 **Connect With Me**
+## 🚀 About Me
 
-<p align="left">
-  <a href="[instagram.com](https://instagram.com/luckybutt_17)"><img src="[skillicons.dev](https://skillicons.dev/icons?i=instagram)" height="40"/></a>
-  <a href="[linkedin.com](https://linkedin.com/in/Abdullah) butt"><img src="[skillicons.dev](https://skillicons.dev/icons?i=linkedin)" height="40"/></a>
-  <a href="mailto:abdullahbutt1794@gmail.com"><img src="[skillicons.dev](https://skillicons.dev/icons?i=gmail)" height="40"/></a>
-</p>
-
----
-
-## 💻 **Tech Stack**
-
-### 🚀 **Languages & Frameworks**
-<p>
-  <img src="[skillicons.dev](https://skillicons.dev/icons?i=python,java,js)" height="45"/>
-  <img src="[skillicons.dev](https://skillicons.dev/icons?i=fastapi,flask)" height="45"/>
-</p>
-
-### 🎨 **Frontend & Design**
-<p>
-  <img src="[skillicons.dev](https://skillicons.dev/icons?i=html,bootstrap,figma,ps)" height="45"/>
-</p>
-
-### 🤖 **Data Science & AI**
-<p>
-  <img src="[skillicons.dev](https://skillicons.dev/icons?i=numpy,pandas,tensorflow)" height="45"/>
-  <img src="[img.shields.io](https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib&logoColor=black&style=for-the-badge)" height="30"/>
-  <img src="[img.shields.io](https://img.shields.io/badge/Scikit--Learn-FF9900?logo=scikitlearn&logoColor=white&style=for-the-badge)" height="30"/>
-</p>
-
-### 🛢️ **Database & Tools**
-<p>
-  <img src="[skillicons.dev](https://skillicons.dev/icons?i=mysql,anaconda,git,github)" height="45"/>
-</p>
+```python
+class AbdullahButt:
+    name       = "Abdullah Butt"
+    location   = "Johar Town, Lahore 🇵🇰"
+    education  = "BSAI — Artificial Intelligence"
+    employer   = "Systems Limited (Part-time)"
+    focus      = ["Python Development", "AI & ML", "Backend Engineering"]
+    learning   = ["Advanced Python", "Deep Learning", "Data Science"]
+    open_to    = "AI • Machine Learning • Backend Collaboration"
+    fun_fact   = "Managing academics & a tech job simultaneously ⚡"
+    motto      = "Building AI solutions while growing as a developer every day."
+```
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=abdullah-butt17&show_icons=true&theme=tokyonight&hide_border=true)" height="165"/>
-  <img src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-butt17&layout=compact&theme=tokyonight&hide_border=true)" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="[nirzak-streak-stats.vercel.app](https://nirzak-streak-stats.vercel.app?user=abdullah-butt17&theme=tokyonight&hide_border=true)" height="165"/>
-</p>
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [Abdullah Butt](https://linkedin.com/in/Abdullah%20butt) |
+| 📸 Instagram | [@luckybutt_17](https://instagram.com/luckybutt_17) |
+| 📧 Email | [abdullahbutt1794@gmail.com](mailto:abdullahbutt1794@gmail.com) |
+| 🐙 GitHub | [abdullah-butt17](https://github.com/abdullah-butt17) |
 
----
-
-## ✍️ **Developer Quote**
-
-<p align="center">
-  <img src="[quotes-github-readme.vercel.app](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)"/>
-</p>
+</div>
 
 ---
 
-## 🔝 **Top Contributions**
-<p align="center">
-  <img src="[github-contributor-stats.vercel.app](https://github-contributor-stats.vercel.app/api?username=abdullah-butt17&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)"/>
-</p>
+## 💻 Tech Stack
+
+### 🚀 Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🤖 AI & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### 🎨 Frontend & Design
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+### 🛢️ Databases & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
-## 👀 **Profile Views**
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="[visitcount.itsvg.in](https://visitcount.itsvg.in/api?id=abdullah-butt17&icon=5&color=6)"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdullah-butt17&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-butt17&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="49%" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=abdullah-butt17&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+
+</div>
 
 ---
 
-## ✨ *"Building AI solutions while growing as a developer every day."*
+## 🏆 Top Contributions
+
+<div align="center">
+
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=abdullah-butt17&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## ✍️ Dev Quote
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Ask me about Python · AI · Tech Career Guidance
+
+*"Building AI solutions while growing as a developer every day."* ✨
+
+⭐ **If you find my work helpful, consider giving a star!**
+
+</div>
