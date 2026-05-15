@@ -23,7 +23,7 @@ class AbdullahButt:
     name       = "Abdullah Butt"
     location   = "Johar Town, Lahore 🇵🇰"
     education  = "BSAI — Artificial Intelligence"
-    employer   = "Systems Limited (Part-time)"
+    employer   = "Systems Limited"
     focus      = ["Python Development", "AI & ML", "Backend Engineering"]
     learning   = ["Advanced Python", "Deep Learning", "Data Science"]
     open_to    = "AI • Machine Learning • Backend Collaboration"
