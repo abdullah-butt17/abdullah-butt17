@@ -23,7 +23,8 @@
 
 ```yaml
 Name:      Abdullah Butt
-Role:      Document Executive Systems Limited (On-site at Lahore Development Authority - LDA)
+Role:      Document Executive Systems Limited
+(On-site at Lahore Development Authority - LDA)
 Education: BSAI — Artificial Intelligence
 Location:  Lahore, Pakistan 🇵🇰
 
