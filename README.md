@@ -115,9 +115,6 @@ Status: 🟢 Available for freelance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdullah-butt17&hide_border=true&count_private=false&show_icons=true&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-butt17&hide_border=true&layout=compact&title_color=7F77DD&text_color=c9d1d9&bg_color=0d1117" width="35%" />
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=abdullah-butt17&hide_border=true&background=0D1117&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD" width="65%" />
