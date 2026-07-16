@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2A5B,100:7F77DD&height=220&section=header&text=Abdullah%20Butt&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer%20%7C%20MERN%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/banner-header.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=650&lines=Turning+data+into+intelligent+systems;Python+%2B+AI+%2B+Backend+Engineering;Now+building+full-stack+MERN+%2B+TypeScript+apps;Currently+building+%40+Systems+Limited" alt="Typing SVG" />
 
@@ -23,7 +23,7 @@
 
 ```yaml
 Name:      Abdullah Butt
-Role:      Document Executive Systems Limited (On-site at Lahore Development Authority - LDA)
+Role:      Software Engineer @ Systems Limited
 Education: BSAI — Artificial Intelligence
 Location:  Lahore, Pakistan 🇵🇰
 
@@ -137,6 +137,6 @@ Status: 🟢 Available for freelance
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2A5B,100:7F77DD&height=100&section=footer" width="100%"/>
+<img src="./assets/banner-footer.svg" width="100%"/>
 
 </div>
